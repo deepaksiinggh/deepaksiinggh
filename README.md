@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepak_Singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksiingh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-1d9e75?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_PORTFOLIO_REPO)
 
 </div>
